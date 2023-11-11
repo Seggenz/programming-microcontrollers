@@ -1,6 +1,6 @@
 # This repository includes projects created during my microcontroller programming course at Poznan University of Technology.
 ## 1. Calculator 
-This is a simple calculator for natural numbers in the range of 0-100.
+This is a simple calculator for natural numbers in the range of 0-99.
 ### Features
 - [x] Addition
 - [x] Subtraction
